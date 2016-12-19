@@ -5,7 +5,7 @@ import bpy
 
 SIZES = {
     'Aeva' : 18.75,
-    'Mym'  : 20.75, # 20.50 might be the better one
+    'Mym'  : 20.50,
 }
     
 
