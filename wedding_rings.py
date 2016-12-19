@@ -4,8 +4,8 @@ import bpy
 
 
 SIZES = {
-    'Aeva' : 20.0,
-    'Mym'  : 22.0,
+    'Aeva' : 19.0,
+    'Mym'  : 20.75, #compare with 21
 }
     
 
