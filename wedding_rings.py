@@ -4,8 +4,8 @@ import bpy
 
 
 SIZES = {
-    'Aeva' : 19.0,  # might be *slightly* too loose
-    'Mym'  : 20.75, # seems to be good?
+    'Aeva' : 18.75,
+    'Mym'  : 20.75,
 }
     
 
